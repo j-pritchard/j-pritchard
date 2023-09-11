@@ -3,7 +3,7 @@
 
 - Experienced mathematics teacher
 - Retraining in Data Analysis with CodeClan/CodeBase
-- Interesting in all kinds of data wrangling and presentation!
+- Excited by all kinds of data wrangling and visualisation
 - R, Shiny, Tableau, SQL
 <!---
 j-pritchard/j-pritchard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
